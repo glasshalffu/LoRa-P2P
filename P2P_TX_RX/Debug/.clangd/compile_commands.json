@@ -1,0 +1,97 @@
+[
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/BCSplus_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/GPIO_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/Grace_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/InterruptVectors_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/LoRa_P2P.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/System_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/USCI_A0_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "D:/ti/grace/P2P/grace/WDTplus_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/main.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/system_pre_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/BCSplus_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/CSL_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/GPIO_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/Grace_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/InterruptVectors_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/System_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/USCI_A0_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/WDTplus_init.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_TX_RX/grace/main.c"
+   }
+]

@@ -1,0 +1,12 @@
+"./BCSplus_init.obj"
+"./GPIO_init.obj"
+"./Grace_init.obj"
+"./InterruptVectors_init.obj"
+"./LoRa_P2P.obj"
+"./System_init.obj"
+"./USCI_A0_init.obj"
+"./WDTplus_init.obj"
+"./main.obj"
+"./system_pre_init.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a
