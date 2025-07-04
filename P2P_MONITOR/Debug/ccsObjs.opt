@@ -1,0 +1,5 @@
+"./LoRa_P2P.obj"
+"./main.obj"
+"./sys_setup.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a

@@ -1,0 +1,6 @@
+"./LoRa_P2P.obj"
+"./ds18b20.obj"
+"./main.obj"
+"./sys_setup.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a

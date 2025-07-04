@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/main.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/LoRa_P2P.c"
+   },
+   {
+      "directory" : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/Debug",
+      "command"   : "clang++ -I\"D:/ti/ccs2011/ccs/ccs_base/msp430/include\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/grlib\" -I\"C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/GrLib/fonts\" -I\"D:/ti/ccs2011/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/Brady/workspace_ccstheia/P2P_MONITOR/sys_setup.c"
+   }
+]
